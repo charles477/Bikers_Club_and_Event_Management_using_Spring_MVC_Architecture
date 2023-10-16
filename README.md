@@ -1,4 +1,4 @@
-# Bikes Club and Event Management Web Application
+# Bikers Club and Event Management Web Application
 
 ## Project Overview
 
